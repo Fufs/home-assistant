@@ -1,7 +1,7 @@
 Sections RTL:
   modes:
-    light:
-    dark:
+    light: {}
+    dark: {}
   card-mod-theme: "Sections RTL"
   card-mod-view-yaml: |
     "hui-sections-view $": |
