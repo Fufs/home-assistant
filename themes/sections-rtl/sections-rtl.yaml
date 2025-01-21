@@ -1,0 +1,14 @@
+Sections RTL:
+  modes:
+    light:
+    dark:
+  card-mod-theme: "Sections RTL"
+  card-mod-view-yaml: |
+    "hui-sections-view $": |
+      .container {
+        direction: rtl;
+      }
+
+      .section {
+        direction: ltr;
+      }
